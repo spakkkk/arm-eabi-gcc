@@ -1,0 +1,6 @@
+GCC 10.1.0 (AArch32)
+
+With binutils 2.34
+bare-metal (kernel-only) 
+Builded using @kdrag0n script:
+https://gist.github.com/kdrag0n/de18bb3f3a3d697186019e26622fbc06
