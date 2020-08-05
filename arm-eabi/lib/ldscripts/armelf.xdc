@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf32-littlearm", "elf32-bigarm",
 	      "elf32-littlearm")
 OUTPUT_ARCH(arm)
 ENTRY(_start)
-SEARCH_DIR("/home/spak/build/gcc/arm-eabi-10.1.0/arm-eabi/lib");
+SEARCH_DIR("/home/spak/kernel/scripts/gcc/arm-eabi-10.2.0/arm-eabi/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
